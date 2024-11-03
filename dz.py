@@ -151,7 +151,7 @@ cool_mentor.rate_hw(nbest_student, 'Python', 10)
 
 equality = best_student > nbest_student
 
-lector = Lecturer('lol', 'kek')
+lector = Lecturer('Name', 'Surname')
 lector.courses_attached += ['Python']
 best_student.rate_lec(lector, 'Python', 10)
 
